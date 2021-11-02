@@ -9,8 +9,8 @@ I'm passionate about technology and programming, I'm learning to develop website
 
 <div align="center">
   <a href="https://github.com/HiagoSilvaAnjos">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=HiagoSilvaAnjos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoSilvaAnjos&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HiagoSilvaAnjos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoSilvaAnjos&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 ##
