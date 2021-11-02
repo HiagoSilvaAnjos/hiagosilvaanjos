@@ -20,3 +20,7 @@ I'm passionate about technology and programming, I'm learning to develop website
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoSilvaAnjos&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
+<br>
+<div>
+![Snake animation](https://github.com/HiagoSilvaAnjos/HiagoSilvaAnjos/blob/output/github-contribution-grid-snake.svg)
+</div>
