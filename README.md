@@ -22,5 +22,5 @@ I'm passionate about technology and programming, I'm learning to develop website
 
 <br>
 <div>
-![Snake animation](https://github.com/HiagoSilvaAnjos/HiagoSilvaAnjos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HiagoSilvaAnjos/hiagosilvaanjos/blob/output/github-contribution-grid-snake.svg)
 </div>
