@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm passionate about technology and programming, I'm learning to develop websites, learning in practice to create projects with web development having experience with HTML5, CSS3 and JavaScript.
+Programmer passionate about technology and programming, I'm learning to develop websites, learning in practice to create projects with web development having experience with HTML5, CSS3 and JavaScript.
 
 <div>
 <a href="https://www.youtube.com/channel/UCvRycARgeBvXL3hM8svA_Mw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
