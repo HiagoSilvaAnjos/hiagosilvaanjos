@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Hiago Silva
 
 <p>
-👨‍💻 Programmer <br>I started programming in October 2021, parachuting into this amazing area, I'm currently learning about web development using HTML technologies | CSS | JavaScript, I'm passionate about technology, I'm getting my hands dirty challenging myself and creating several really cool projects. <br>
+👨‍💻 Programmer <br>I started programming in October 2021, parachuting into this amazing area, I'm currently learning about web development using HTML technologies | CSS | JavaScript | NodeJS, I'm passionate about technology, I'm getting my hands dirty challenging myself and creating several really cool projects. <br>
 <br>
 
 <br>
-HTML | CSS | JavaScript | Node Js
+HTML | CSS | JavaScript | NodeJS
 </p>
 
 <div>
@@ -24,8 +24,8 @@ HTML | CSS | JavaScript | Node Js
 
 <br/>
 
-<div align="center" style="display: inline_block"><br>
+<!-- <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Hiago-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hiago-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hiago-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+</div> -->
