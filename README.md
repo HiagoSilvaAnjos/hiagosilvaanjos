@@ -1,7 +1,8 @@
 # Hi there 👋 I'm Hiago Silva
 
 <p>
-👨‍💻 Programmer <br>I started programming in October 2021, parachuting into this amazing area, I'm currently learning about web development using HTML technologies | CSS | JavaScript | NodeJS, I'm passionate about technology, I'm getting my hands dirty challenging myself and creating several really cool projects. <br>
+👨‍💻 Programmer <br>I started programming in October 2021, parachuting into this amazing area, I'm currently learning about web development using technologies like HTML | css | JavaScript | NodeJS, I'm passionate about technology, I'm getting my hands dirty and creating very practical and functional projects.
+ <br>
 <br>
 
 <br>
