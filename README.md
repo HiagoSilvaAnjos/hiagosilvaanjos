@@ -6,7 +6,7 @@
 <br>
 
 <br>
-HTML | CSS | JavaScript | NodeJS
+HTML | CSS | JavaScript | NodeJS | Python
 </p>
 
 <div>
@@ -25,8 +25,11 @@ HTML | CSS | JavaScript | NodeJS
 
 <br/>
 
-<!-- <div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Hiago-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hiago-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hiago-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div> -->
+  <img align="center" alt="Hiago-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Hiago-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Hiago-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+</div>
