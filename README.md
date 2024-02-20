@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Hiago Silva
 
 <p>
-👨‍💻 Programmer <br>I started programming in October 2021, parachuting into this amazing area, I'm currently learning about web development using technologies like HTML | css | JavaScript | NodeJS, I'm passionate about technology, I'm getting my hands dirty and creating very practical and functional projects.
+👨‍💻 Programmer <br>I started programming in October 2021, parachuting into this amazing area, I'm currently learning about web development using technologies like HTML | CSS | JavaScript | NodeJS | Mongo DB | ReactJS | Python, I'm passionate about technology, I'm getting my hands dirty and creating very practical and functional projects.
  <br>
 <br>
 
 <br>
-HTML | CSS | JavaScript | NodeJS | ReactJS | Python
+HTML | CSS | JavaScript | NodeJS | Mongo DB | ReactJS | Python
 </p>
 
 <div>
@@ -30,6 +30,7 @@ HTML | CSS | JavaScript | NodeJS | ReactJS | Python
   <img align="center" alt="Hiago-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hiago-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hiago-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Hiago-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Hiago-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Hiago-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Hiago-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
