@@ -1,8 +1,14 @@
 # Hi there 👋 I'm Hiago Silva
 
 <p>
-👨‍💻 Programmer <br>I started programming in October 2021, parachuting into this amazing area, I'm currently learning about web development using technologies like HTML | CSS | JavaScript | NodeJS | Mongo DB | ReactJS | Python, I'm passionate about technology, I'm getting my hands dirty and creating very practical and functional projects.
- <br>
+👨‍💻 Programmer <br>I'm passionate about technology and I dove head first into programming in October 2021! Since then, I have been exploring this incredible and exciting universe, learning and developing my skills every day. 💻💡
+
+Currently, I'm focused on mastering several technologies, from the fundamentals like HTML, CSS and JavaScript to advanced tools like NodeJS, MongoDB, ReactJS and Python. Every line of code I write is an opportunity to learn and improve myself as a programmer.
+
+I am committed to creating practical and functional projects, putting into practice all the knowledge I acquire. Whether developing responsive websites, building dynamic applications or exploring new areas, I am always looking for challenges and new experiences.
+
+Let's connect so we can create and innovate in this exciting world of technology! 🚀🌟
+<br>
 <br>
 
 <br>
