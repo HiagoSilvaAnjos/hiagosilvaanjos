@@ -12,7 +12,7 @@ Let's connect so we can create and innovate in this exciting world of technology
 <br>
 
 <br>
-HTML | CSS | JavaScript | NodeJS | Mongo DB | ReactJS | Python
+ HTML | CSS | JavaScript | NodeJS | Mongo DB | ReactJS | Python
 </p>
 
 <div>
