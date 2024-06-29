@@ -1,19 +1,19 @@
 # Hi there 👋 I'm Hiago Silva
 
-<p>
-👨‍💻 Programmer <br>I'm passionate about technology and I dove head first into programming in October 2021! Since then, I have been exploring this incredible and exciting universe, learning and developing my skills every day. 💻💡
+<div>
+Programador <br>Sou apaixonado por tecnologia e mergulhei no mundo da programação em outubro de 2021! Desde então venho explorando esse universo incrível, buscando aprender e melhorar minhas habilidades a cada dia. 💻💡
 
-Currently, I'm focused on mastering several technologies, from the fundamentals like HTML, CSS and JavaScript to advanced tools like NodeJS, MongoDB, ReactJS, TypeScript and Python. Every line of code I write is an opportunity to learn and improve myself as a programmer.
+Atualmente estou focado em dominar tecnologias avançadas de desenvolvimento Front-end e Back-end. No front-end, estou trabalhando com ReactJS utilizando Vite com TypeScript. No back-end, estou utilizando NodeJS, banco de dados SQL com PostgreSQL, Prisma e Docker.
 
-I am committed to creating practical and functional projects, putting into practice all the knowledge I acquire. Whether developing responsive websites, building dynamic applications or exploring new areas, I am always looking for challenges and new experiences.
+Bora pra cima Turma! 🚀🌟
 
-Let's connect so we can create and innovate in this exciting world of technology! 🚀🌟
+Tenho experiência em projetos utilizando as tecnologias:
+
+JavaScript | TypeScript | ReactJS | TailwindCSS | NodeJS | SQL | PostgreSQL | Prisma | Python
+
+</div>
+
 <br>
-<br>
-
-<br>
- JavaScript | TypeScript | NodeJS | Mongo DB | ReactJS | TailwindCSS | Python
-</p>
 
 <div>
   <a href="https://www.linkedin.com/in/hiago-silva-119711224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -36,10 +36,10 @@ Let's connect so we can create and innovate in this exciting world of technology
   <img align="center" alt="Hiago-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hiago-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hiago-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Hiago-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Hiago-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Hiago-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Hiago-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Hiago-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Hiago-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+  <img align="center" alt="PostgreSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Hiago-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Hiago-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 </div>
