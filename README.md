@@ -1,27 +1,35 @@
 # 👋 Olá, eu sou o Hiago, um desenvolvedor full stack que ama o que faz!
 
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 <div>
-Programador <br>Sou apaixonado por tecnologia e mergulhei no mundo da programação em outubro de 2021! Desde então venho explorando esse universo incrível, buscando aprender e melhorar minhas habilidades a cada dia. 💻💡
+<p>Programador <br>Sou apaixonado por tecnologia e mergulhei no mundo da programação em outubro de 2021! Desde então venho explorando esse universo incrível, buscando aprender e melhorar minhas habilidades a cada dia. 💻💡</p>
 
-Atualmente estou focado em dominar tecnologias avançadas de desenvolvimento Front-end e Back-end. No front-end, estou trabalhando com ReactJS utilizando Vite com TypeScript. No back-end, estou utilizando NodeJS, banco de dados SQL com PostgreSQL, Prisma e Docker.
+<br>
+<p>Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Utilizo principalmente a stack JavaScript (Node e React) para desenvolver em ambas as frentes.
+</p>
+<br>
+<p><a href="https://www.linkedin.com/in/hiago-silva-119711224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
 
-Bora pra cima Turma! 🚀🌟
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
 
-Tenho experiência em projetos utilizando as tecnologias:
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-JavaScript | TypeScript | ReactJS | TailwindCSS | NodeJS | SQL | PostgreSQL | Prisma | Python
+<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 </div>
 
 <br>
 
-<div>
-  <a href="https://www.linkedin.com/in/hiago-silva-119711224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<br>
-
-<br>
+<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
 <div align="center">
   <a href="https://github.com/HiagoSilvaAnjos">
