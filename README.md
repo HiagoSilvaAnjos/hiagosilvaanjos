@@ -25,6 +25,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 ![Prisma](https://img.shields.io/badge/-prisma-333333?style=flat&logo=prisma)
 ![Zod](https://img.shields.io/badge/-zod-333333?style=flat&logo=zod)
 ![Zod](https://img.shields.io/badge/-jest-333333?style=flat&logo=jest)
