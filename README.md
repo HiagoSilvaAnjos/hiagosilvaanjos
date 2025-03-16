@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://www.instagram.com/hiagosilva.me?igsh=MXhxbHZkOWtwZXJ1aw=="><img src="https://img.shields.io/badge/-@hiagosilva.me_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <!-- <a href="https://dicasparadevs.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-Hiago%20Silva%20Anjos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hiago-silva-119711224/"><img src="https://img.shields.io/badge/-Hiago%20Silva%20Anjos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hiagodeveloper8@gmail.com"><img src="https://img.shields.io/badge/-hiagodeveloper8@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
