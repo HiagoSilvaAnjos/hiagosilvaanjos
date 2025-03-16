@@ -1,12 +1,18 @@
-# 👋 Olá, eu sou o Hiago, um desenvolvedor full stack que ama o que faz!
+<h1>👋 &nbsp;Olá, eu sou o Hiago, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<p align="center">
+<a href="https://www.instagram.com/hiagosilva.me?igsh=MXhxbHZkOWtwZXJ1aw=="><img src="https://img.shields.io/badge/-@hiagosilva.me_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<!-- <a href="https://dicasparadevs.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-Hiago%20Silva%20Anjos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:hiagodeveloper8@gmail.com"><img src="https://img.shields.io/badge/-hiagodeveloper8@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+</p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
-<div>
-<p>Programador <br>Sou apaixonado por tecnologia e mergulhei no mundo da programação em outubro de 2021! Desde então venho explorando esse universo incrível, buscando aprender e melhorar minhas habilidades a cada dia. 💻💡</p>
 
-<br>
-<p>Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Utilizo principalmente a stack JavaScript (Node e React) para desenvolver em ambas as frentes.
-</p>
+- 👨🏻‍💻 &nbsp; Meu primeiro contato com programação foi com a linguagem JavaScript, pois sempre tive curiosidade de saber como as coisas e a internet funcionavam por baixo dos panos. Ao explorar essa linguagem, percebi o quão fascinante era poder criar e manipular elementos na web apenas escrevendo código. Esse foi o momento em que decidi que queria seguir na área de programação.
+- 🚀 &nbsp; Atualmente, meu foco principal está no desenvolvimento web, utilizando a stack JavaScript, com Node.js e React, tanto no back-end quanto no front-end. Além disso, também me dedico ao Next.js para criar aplicações completas, otimizadas e escaláveis.
+- ⚽🥋 &nbsp; Sou apaixonado por futebol e gosto de acompanhar campeonatos e assistir partidas. Além disso, também gosto de artes marciais, como boxe e karatê.
+
 <br>
 <p><a href="https://www.linkedin.com/in/hiago-silva-119711224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
