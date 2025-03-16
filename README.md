@@ -9,7 +9,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Meu primeiro contato com programação foi em 2021 com a linguagem JavaScript, pois sempre tive curiosidade de saber como as coisas e a internet funcionavam por baixo dos panos. Ao explorar essa linguagem, percebi o quão fascinante era poder criar e manipular elementos na web apenas escrevendo código. Esse foi o momento em que decidi que queria seguir na área de programação.
+- 👨🏻‍💻 &nbsp; Meu primeiro contato com programação foi em 2021 com a linguagem JavaScript, pois sempre tive curiosidade de saber como os sites e a internet funcionavam por baixo dos panos. Ao explorar essa linguagem, percebi o quão fascinante era poder criar e manipular elementos na web apenas escrevendo código. Esse foi o momento em que decidi que queria seguir na área de programação.
 - 🚀 &nbsp; Atualmente, meu foco principal está no desenvolvimento web, utilizando a stack JavaScript, com Node.js e React, tanto no back-end quanto no front-end. Além disso, também me dedico ao Next.js para criar aplicações de fora a fora completas, otimizadas e escaláveis.
 - ⚽🥋 &nbsp; Sou apaixonado por futebol e gosto de acompanhar campeonatos e assistir partidas. Além disso, também gosto de artes marciais, como boxe e karatê.
 
